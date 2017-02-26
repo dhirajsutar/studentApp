@@ -9,6 +9,7 @@ public class Address {
     private String cityName;
     private String stateName;
 
+    // This is default constructor	
     public Address() {
     }
 

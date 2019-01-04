@@ -5,6 +5,6 @@ package com.app.client;
  */
 public class ClientAccess {
     public static void main(String args[]){
-
+    	System.out.println("My name");
     }
 }

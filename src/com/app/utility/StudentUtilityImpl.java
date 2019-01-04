@@ -9,16 +9,19 @@ import java.util.List;
  */
 public class StudentUtilityImpl implements StudentUtility{
 
+	//This method is is used to sort student list based on Name
     @Override
     public List<Student> sortBasedOnStudentName(List<Student> studentList) {
         return null;
     }
 
+    // This method is used to sort student list based on roll number
     @Override
     public List<Student> sortBasedOnStudentRollNumber(List<Student> studentList) {
         return null;
     }
 
+    // This method is used to sort student list based on marks
     @Override
     public List<Student> sortBasedOnStudentPercentages(List<Student> studentList) {
         return null;
